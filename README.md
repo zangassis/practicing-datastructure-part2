@@ -1,6 +1,6 @@
 # Practicing Data Structures with ASP.NET Core - Part 2💻
 
-This project contains a sample ASP.NET Core app. This app is an example of the article I produced for the Telerik Blog (telerik.com/blogs).
+**This project contains a sample ASP.NET Core app. This app is an example of the article I produced for the Telerik Blog (telerik.com/blogs).**
 
 Welcome to the "Practicing Data Structures" repository! 
 
