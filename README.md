@@ -2,9 +2,9 @@
 
 **This project contains a sample ASP.NET Core app. This app is an example of the article I produced for the Telerik Blog (telerik.com/blogs).**
 
-Welcome to the "Practicing Data Structures" repository! 
+Welcome to the "Practicing Data Structures - Part 2" repository! 
 
-In this project, you will find a hands-on guide to learning and implementing advanced data structures like Binary Search, Heap and Hashing using ASP.NET Core. 🚀
+In this project, you will find a hands-on guide to learning and implementing advanced data structures like Binary Search, Heap, and Hashing using ASP.NET Core. 🚀
 
 ## 📁 Repository Contents
 
@@ -32,15 +32,13 @@ dotnet run
 
 4. All results will be shown in the terminal
 
-## 📚 Data Structures Covered
+## 📚 Data Structures Part 2 Covered
 
-- **📦 Array**: Learn how to use arrays in C# to store and manipulate data efficiently.
+- **🌳 Binary Tree**: Learn how to use Binary Tree in C#.
 
-- **🔗 Linked List**: Explore the concept of linked lists and their applications in ASP.NET Core Minimal API.
+- **⏲ Heap**: Explore the concept of Heap and their applications in ASP.NET Core Minimal API.
 
-- **📚 Stack**: Understand how to implement a stack data structure for various use cases.
-
-- **🧊 Queue**: Dive into the world of queues and their role in ASP.NET Core Minimal API applications.
+- **🔐 Hashing**: Understand how to implement Hashing.
 
 ## 🚧 Project Structure
 
